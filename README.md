@@ -2,8 +2,6 @@
 
 This project is just me trying to mimic Minecraft in React.
 
-Demo: https://minecraft-freecodecamp.vercel.app/
-
 ## How to play?
 
 Currently it has 5 types of blocks: Grass, Wood, Log, Glass and Dirt.
